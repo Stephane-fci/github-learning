@@ -13,9 +13,12 @@ This is a simple project I created to learn how to use GitHub CLI (command line 
 
 ## Progress:
 - [x] Created this README file
-- [ ] Set up git repository
-- [ ] Connected to GitHub
-- [ ] Made my first commit
+- [x] Set up git repository
+- [x] Connected to GitHub
+- [x] Made my first commit
+- [x] Mastered Git branches and tags workflow
+- [x] Created custom /qc slash command for quick commits
+- [x] Learning simple commit workflow for solo SaaS development
 
 ---
 *Created while learning GitHub CLI* 🚀
